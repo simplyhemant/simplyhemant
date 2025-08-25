@@ -44,6 +44,3 @@
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemant-singh-a2aaa7208/)  
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/simply_hemant_)  
-
----
-⭐️ From [Hemant](https://github.com/YourGitHubUsername)
