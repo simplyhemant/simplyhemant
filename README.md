@@ -39,7 +39,7 @@
 - 💡 Interested in **API development & web apps**  
 - ⚡ Fun fact: *I debug with coffee ☕*
 - 📫 How to reach me: **hemant23dev@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1PUHZywxw90F_3w-NqkIyGF6hFIHr5WME/view?usp=sharing) 
+- 📄 [My Resume](https://drive.google.com/file/d/1GAhPUPRpCRyAVchxSKiJfxYvF07JSBx-/view?usp=sharing) 
 
 ---
 
