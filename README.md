@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20xbThtOXN2cXN3a3U4M3pocnlxMXk5emczNXFwdTd4ZGdhY3U1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
 
 ### 💻 Languages
 <p>
