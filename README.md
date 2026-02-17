@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Hemant  
+[# Hi there 👋, I'm Hemant  
 
-<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 
 💻 Passionate Software Developer | 🚀 Building Scalable Applications | 🌱 Always Learning  
 
@@ -65,3 +66,4 @@
 
 ### 🚀 Highlights  
 ✅ **Spring Boot • Microservices • Redis • Kafka • AWS • CI/CD**  
+](https://drive.google.com/drive/folders/1aa06Dmh5asENKNDzl3HcxEoQUXrE515H?usp=sharing)
