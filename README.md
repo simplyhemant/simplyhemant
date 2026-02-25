@@ -54,10 +54,10 @@
 
 📫 **Email:** hemant23dev@gmail.com  
 📄 **Resume:**  
-https://drive.google.com/file/d/17Ooc8hKYFkatzb_JMSdvTAtP2HdlZZ97/view?usp=sharing  
+https://drive.google.com/file/d/141Yqwm_TYgB4KHthAeiUsld1YsmiL9BF/view?usp=sharing  
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemant-singh-a2aaa7208/)
