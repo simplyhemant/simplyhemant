@@ -5,6 +5,10 @@
 🚀 Building Scalable Systems & Microservices  
 🌱 Always Learning System Design & Cloud  
 
+🌐 **Portfolio:**  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge)](https://portfolio-two-murex-65.vercel.app/)
+
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -54,7 +58,7 @@
 
 📫 **Email:** hemant23dev@gmail.com  
 📄 **Resume:**  
-https://drive.google.com/file/d/141Yqwm_TYgB4KHthAeiUsld1YsmiL9BF/view?usp=sharing  
+https://drive.google.com/file/d/10vpF21Jg-l38Oebor-v-rewkSfulRJy7/view?usp=sharing
 
 ---
 
