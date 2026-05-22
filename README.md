@@ -3,6 +3,7 @@
 <p align="left">
   <a href="https://portfolio-two-murex-65.vercel.app/"><img src="https://img.shields.io/badge/-🌐%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/hemant-singh-a2aaa7208/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://drive.google.com/file/d/10vpF21Jg-l38Oebor-v-rewkSfulRJy7/view?usp=sharing"><img src="https://img.shields.io/badge/-📄%20Resume-E4405F?style=for-the-badge" alt="Resume"></a>
 </p>
 
 ### ⚡ Backend Engineer specializing in Java, Spring Boot, and Distributed Systems
@@ -72,4 +73,5 @@ Passionate about building highly available, scalable backend architectures, desi
   <a href="mailto:hemant23dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/hemant-singh-a2aaa7208/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://portfolio-two-murex-65.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://drive.google.com/file/d/10vpF21Jg-l38Oebor-v-rewkSfulRJy7/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-E4405F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
 </p>
