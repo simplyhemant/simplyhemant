@@ -1,67 +1,72 @@
 # Hi there 👋, I'm Hemant Singh  
 
-
-💻 Passionate Backend Developer  
-🚀 Building Scalable Systems & Microservices  
-🌱 Always Learning System Design & Cloud  
+⚡ **Backend Engineer specializing in Java, Spring Boot, and Distributed Systems.**  
+🚀 Passionate about building highly available, scalable backend architectures, designing concurrent systems, and automating cloud infrastructure.
 
 🌐 **Portfolio:**  
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge)](https://portfolio-two-murex-65.vercel.app/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemant-singh-a2aaa7208/)
 
 ---
 
 ## 🛠️ Tech Stack  
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20xbThtOXN2cXN3a3U4M3pocnlxMXk5emczNXFwdTd4ZGdhY3U1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
 
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20xbThtOXN2cXN3a3U4M3pocnlxMXk5emczNXFwdTd4ZGdhY3U1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="380"/>
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
-</p>
+### 💻 Core Languages & Architecture
+* **Languages:** Java, C++, JavaScript (ES6+), HTML5/CSS3
+* **Core Concepts:** RESTful API Design, Microservices Architecture, Distributed Systems, OOPs, Database Normalization
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
-</p>
+### ⚙️ Backend & Resilience Frameworks
+* **Frameworks:** Spring Boot, Spring Cloud (Gateway, Eureka, Config Server), Hibernate / Spring Data JPA
+* **Security & Testing:** Spring Security, JWT, OAuth2, RBAC, JUnit 5, Mockito
+* **Messaging & Resilience:** Apache Kafka, Resilience4j (Circuit Breaker), WebSockets (STOMP)
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+### 💾 Databases & Caching
+* **Relational:** PostgreSQL, MySQL
+* **NoSQL:** MongoDB
+* **Caching & Concurrency:** Redis (Caching, Distributed Locking with TTL)
+
+### ☁️ DevOps, Cloud & Tools
+* **Cloud & Infrastructure:** AWS (EC2, S3, RDS)
+* **DevOps / CI-CD:** Docker, Docker Compose, GitHub Actions, Zipkin (Distributed Tracing)
+* **Tools:** Git/GitHub, Postman, Swagger/OpenAPI, IntelliJ IDEA
 
 ---
 
-## 🌟 About Me  
+## 🚀 Key Projects & Architectural Showcases
 
-- 🔭 Currently building **Java + Spring Boot scalable backend systems**
-- 🌱 Learning **System Design, Microservices, Redis, Kafka**
-- ☁️ Exploring **AWS (EC2, S3, RDS), Docker & CI/CD**
-- 💡 Passionate about **Backend Engineering & Distributed Systems**
-- ⚡ Fun fact: *I debug production issues faster with coffee ☕*
+### 🛒 [Distributed E-Commerce Microservices](https://github.com/simplyhemant) (Microservices Architecture)
+* **Architecture:** Engineered an ecosystem of 7 independent microservices orchestrated via **Spring Cloud Gateway** for intelligent routing, load balancing, and request filtering.
+* **Resilience:** Implemented **Resilience4j Circuit Breaker** patterns to isolate and safeguard services against cascading failures.
+* **Event-Driven:** Leveraged **Apache Kafka** for decoupled, asynchronous communication between order processing and notification layers.
+* **Observability & Deployment:** Containerized the entire infrastructure using **Docker Compose** (including PostgreSQL, MongoDB, Kafka, and Zookeeper) and integrated **Zipkin** for end-to-end distributed tracing.
 
-📫 **Email:** hemant23dev@gmail.com  
-📄 **Resume:**  
-https://drive.google.com/file/d/10vpF21Jg-l38Oebor-v-rewkSfulRJy7/view?usp=sharing
+### 🎬 [SimplyCinema](https://github.com/simplyhemant) (High-Concurrency Movie Booking Platform)
+* **Concurrency Control:** Solved race conditions during peak traffic by building a high-performance **Redis-based distributed locking** mechanism with TTL for seat selection.
+* **Real-time Updates:** Utilized **WebSockets (STOMP protocol)** to handle low-latency, real-time seat status synchronization across client interfaces.
+* **API Design:** Architected 90+ production-grade RESTful endpoints utilizing a rigid DTO pattern and centralized global exception handling for pristine frontend integration.
+* **Security & Cloud:** Hardened endpoints via stateless **Spring Security (JWT + OAuth2)** with multi-role RBAC, deployed live on **AWS EC2**.
 
 ---
 
-## 🌐 Connect With Me  
+## 💼 Professional Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemant-singh-a2aaa7208/)
+**Software Engineer Intern — Stakrid Logistics** *(Aug 2025 – Nov 2025)*
+* Architected a greenfield backend system using a modular layered Spring Boot layout, optimizing future feature velocity by **30%**.
+* Integrated **Google Maps API** for dynamic routing and real-time fleet localization, raising logistical coordination efficiency by **25%**.
+* Spearheaded Git branching strategies, code reviews, and technical workflows for a **3-person internal engineering group**.
+
+---
+
+## 📊 Metrics & Focus
+* 🧩 **Problem Solving:** 150+ Data Structures & Algorithms problems solved on LeetCode/GeeksforGeeks.
+* ⚙️ **Focus Areas:** Scalability, High Availability, Fault Tolerance, Caching Strategies, and Database Optimization.
+
+---
+
+## 📫 Let's Connect!
+
+* **Email:** [hemant23dev@gmail.com](mailto:hemant23dev@gmail.com)
+* **LinkedIn:** [linkedin.com/in/hemant-singh-a2aaa7208](https://www.linkedin.com/in/hemant-singh-a2aaa7208/)
+* **Portfolio:** [portfolio-two-murex-65.vercel.app](https://portfolio-two-murex-65.vercel.app/)
